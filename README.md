@@ -3,6 +3,7 @@
 
 # Objective: 
 * To built an intelligent chatbot capable of processing Urdu voice input and generating both text and audio responses in Urdu.
+* To retrieve the relevant information contextually from the PDF file provided and Chatbot's general knowledge separately.
 
 # Key Features:
 
