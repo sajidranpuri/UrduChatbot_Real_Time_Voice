@@ -1,0 +1,10 @@
+pyaudio
+SpeechRecognition
+google-generativeai
+gtts
+streamlit
+langchain
+pypdf
+sentence-transformers
+langchain-community
+faiss-cpu
